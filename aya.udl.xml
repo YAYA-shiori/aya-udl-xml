@@ -24,7 +24,7 @@
 			<Keywords name="Folders in comment, open"></Keywords>
 			<Keywords name="Folders in comment, middle"></Keywords>
 			<Keywords name="Folders in comment, close"></Keywords>
-			<Keywords name="Keywords1">void if else elseif case when others foreach return while for</Keywords>
+			<Keywords name="Keywords1">void if else elseif case when others foreach return while for switch</Keywords>
 			<Keywords name="Keywords2">a b c d e f g h i j k l m n o p q r s t u v w x y z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</Keywords>
 			<Keywords name="Keywords3">_</Keywords>
 			<Keywords name="Keywords4"></Keywords>
